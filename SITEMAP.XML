@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+   <!-- Página principal -->
+   <url>
+      <loc>https://sites.google.com/view/servicio-logopedia-saletalopez</loc>
+      <lastmod>2025-08-10</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>1.0</priority>
+   </url>
+
+   <!-- Página de inicio -->
+   <url>
+      <loc>https://sites.google.com/view/servicio-logopedia-saletalopez/inicio</loc>
+      <lastmod>2025-08-10</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.9</priority>
+   </url>
+
+   <!-- Página de servicios -->
+   <url>
+      <loc>https://sites.google.com/view/servicio-logopedia-saletalopez/servicios</loc>
+      <lastmod>2025-08-10</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.9</priority>
+   </url>
+
+   <!-- Página de contacto -->
+   <url>
+      <loc>https://sites.google.com/view/servicio-logopedia-saletalopez/contacto</loc>
+      <lastmod>2025-08-10</lastmod>
+      <changefreq>yearly</changefreq>
+      <priority>0.8</priority>
+   </url>
+</urlset>
